@@ -6,7 +6,7 @@ author: "Nick Payne"
 
 ## You may have noticed that things have been pretty quiet on the Dear Orphans front for a few months. The reason for this is we've been busily working away behind the scenes setting up some pretty important things for us.
 
-<p class="text-center"><img style="border: 1px solid #ccc;" src="/images/2010/7/au_vanguard_main.jpeg" alt="The Vanguard" /></p>
+<p class="text-center"><img style="border: 1px solid #ccc;" src="{{ site.baseurl }}/images/2010/7/au_vanguard_main.jpeg" alt="The Vanguard" /></p>
 
 <h3>Dear Orphans sign to independent label Blue Pie</h3>
 <p>At the start of April Lyn and I signed with local independent record label Blue Pie Productions. Over the last few months we've been working with the crew at Blue Pie to get a whole lot of things organised like publishing and distribution - all those boring, but important things that need to happen to keep things ticking along.</p>

@@ -20,7 +20,7 @@ author: "Nick Payne"
 <p style="text-align: center; font-size: 1.25em;"><a class="external" href="http://www.facebook.com/events/174438696073297" target="_blank">http://www.facebook.com/events/174438696073297</a></p>
 <p>In order to let Melbournians know we're coming, we've put together a three episode web-series on YouTube. The first one is presented below for your enjoyment.</p>
 <p>If you have friends or family in Melbourne who would enjoy our music, then please share this news with them.</p>
-<p>[iFrame:560/420]http://www.youtube.com/embed/-L9V95maqNg[/iFrame]</p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/-L9V95maqNg" frameborder="0" allowfullscreen></iframe>
 <h3>Other stuff coming up soon&hellip;</h3>
 <p style="text-align: center; font-size: 1.25em;">26/10 Double Bay Live<br />16/11 Sydney Intercultural Film Festival<br />17/11 Live 'n Lounging<br />22-24/11 MountainGrass, Harrietville</p>
 <p>&nbsp;</p>

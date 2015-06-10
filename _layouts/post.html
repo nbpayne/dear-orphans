@@ -14,12 +14,12 @@ layout: default
     <nav class="pagination-centered">
       <ul class="pagination">
         {% if page.previous %}
-        <li class="arrow"><a href="{{ page.previous.url }}">&laquo; Previous</a></li>
+        <li class="arrow"><a href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; Previous</a></li>
         {% else %}
         <li class="unavailable">&laquo; Previous</li>
         {% endif %}
         {% if page.next %}
-        <li class="arrow"><a href="{{ page.next.url }}">Next &raquo;</a></li>
+        <li class="arrow"><a href="{{ site.baseurl }}{{ page.next.url }}">Next &raquo;</a></li>
         {% else %}
         <li class="unavailable">Next &raquo;</li>
         {% endif %}

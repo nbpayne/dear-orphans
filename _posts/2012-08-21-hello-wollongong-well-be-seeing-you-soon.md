@@ -7,7 +7,7 @@ author: "Nick Payne"
 ## We're looking forward to visiting Wollongong on Saturday 15th September to join local artists Rebecca Moore and Mem Davis &amp; The Kindred Spirits to play a show in support of the work of Hamlin Fistula Ethiopia.
 
 <p style="font-size: 1.5em; font-style: italic; text-align: center;">A fistula is the most devestating of childbirth injuries.</p>
-<p class="right"><img style="font-size: 10px; font-weight: normal;" src="/images/2012/8/acoustic-cafe.png" alt="Acoustic Cafe @ Wollongong  Town Hall" /></p>
+<p class="right"><img style="font-size: 10px; font-weight: normal;" src="{{ site.baseurl }}/images/2012/8/acoustic-cafe.png" alt="Acoustic Cafe @ Wollongong  Town Hall" /></p>
 <p>An obstetric fistula develops when the blood supply to the tissues of the vagina and bladder (and/or rectum) is cut off during prolonged, obstructed labour. The tissues die and a hole forms through which urine and/or faeces pass uncontrollably. Women who develop fistulae are often abandoned by their husbands, rejected by their communities and forced to live an isolated existence.</p>
 <p>Obsteric fistulae have been eliminated in the first world with the advent of the caesarean section, but still affect women living in third world countries.</p>
 <p>The surgical technique developed by Australian Dr Catherine Hamlin and her late husband Dr Reginald Hamlin, a New Zealander, successfully cures 93% of obstetric fistula cases. The Addis Ababa Fistula Hospital and its regional Hamlin Fistula Centres offer comprehensive care for women who suffer from incontinence, physical impairment, shame and marginalisation as a result obstetric fistula.</p>

@@ -7,7 +7,7 @@ title: News
           <h2>{{ paginator.posts[0].title }}</h2>
           <p>{{ paginator.posts[0].date | date: "%b %-d, %Y" }}{% if paginator.posts[0].author %} • {{ paginator.posts[0].author }}{% endif %}{% if paginator.posts[0].meta %} • {{ paginator.posts[0].meta }}{% endif %}</p>
           <h3>{{ paginator.posts[0].excerpt | strip_html }}</h3>
-          <p class="text-right"><a href="{{ paginator.posts[0].url }}">... Read more</a></p>
+          <p class="text-right"><a href="{{ site.baseurl }}{{ paginator.posts[0].url }}">... Read more</a></p>
         </article>
 
         {% if paginator.posts[1] %}
@@ -17,7 +17,7 @@ title: News
               <h2>{{ paginator.posts[1].title }}</h2>
               <p>{{ paginator.posts[1].date | date: "%b %-d, %Y" }}{% if paginator.posts[1].author %} • {{ paginator.posts[1].author }}{% endif %}{% if paginator.posts[1].meta %} • {{ paginator.posts[1].meta }}{% endif %}</p>
               <h3>{{ paginator.posts[1].excerpt |strip_html }}</h3>
-              <p class="text-right"><a href="{{ paginator.posts[1].url }}">... Read more</a></p>
+              <p class="text-right"><a href="{{ site.baseurl }}{{ paginator.posts[1].url }}">... Read more</a></p>
             </article>
           </div>
           <div class="small-12 medium-6 columns">
@@ -26,7 +26,7 @@ title: News
               <h2>{{ paginator.posts[2].title }}</h2>
               <p>{{ paginator.posts[2].date | date: "%b %-d, %Y" }}{% if paginator.posts[2].author %} • {{ paginator.posts[2].author }}{% endif %}{% if paginator.posts[2].meta %} • {{ paginator.posts[2].meta }}{% endif %}</p>
               <h3>{{ paginator.posts[2].excerpt |strip_html }}</h3>
-              <p class="text-right"><a href="{{ paginator.posts[2].url }}">... Read more</a></p>
+              <p class="text-right"><a href="{{ site.baseurl }}{{ paginator.posts[2].url }}">... Read more</a></p>
             </article>
             {% endif %}
           </div>
@@ -39,7 +39,7 @@ title: News
               <h2>{{ paginator.posts[3].title }}</h2>
               <p>{{ paginator.posts[3].date | date: "%b %-d, %Y" }}{% if paginator.posts[3].author %} • {{ paginator.posts[3].author }}{% endif %}{% if paginator.posts[3].meta %} • {{ paginator.posts[3].meta }}{% endif %}</p>
               <h3>{{ paginator.posts[3].excerpt |strip_html }}</h3>
-              <p class="text-right"><a href="{{ paginator.posts[3].url }}">... Read more</a></p>
+              <p class="text-right"><a href="{{ site.baseurl }}{{ paginator.posts[3].url }}">... Read more</a></p>
             </article>
           </div>
           <div class="small-12 medium-6 columns">
@@ -48,7 +48,7 @@ title: News
               <h2>{{ paginator.posts[4].title }}</h2>
               <p>{{ paginator.posts[4].date | date: "%b %-d, %Y" }}{% if paginator.posts[4].author %} • {{ paginator.posts[4].author }}{% endif %}{% if paginator.posts[4].meta %} • {{ paginator.posts[4].meta }}{% endif %}</p>
               <h3>{{ paginator.posts[4].excerpt |strip_html }}</h3>
-              <p class="text-right"><a href="{{ paginator.posts[4].url }}">... Read more</a></p>
+              <p class="text-right"><a href="{{ site.baseurl }}{{ paginator.posts[4].url }}">... Read more</a></p>
             </article>
             {% endif %}
           </div>
@@ -62,12 +62,12 @@ title: News
             <nav class="pagination-centered">
               <ul class="pagination">
                 {% if paginator.next_page %}
-                <li class="arrow"><a href="{{ paginator.next_page_path | replace: 'index.html' }}">&laquo; Previous</a></li>
+                <li class="arrow"><a href="{{ site.baseurl }}{{ paginator.next_page_path | replace: 'index.html' }}">&laquo; Previous</a></li>
                 {% else %}
                 <li class="unavailable">&laquo; Previous</li>
                 {% endif %}
                 {% if paginator.previous_page %}
-                <li class="arrow"><a href="{{ paginator.previous_page_path }}">Next &raquo;</a></li>
+                <li class="arrow"><a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Next &raquo;</a></li>
                 {% else %}
                 <li class="unavailable">Next &raquo;</li>
                 {% endif %}

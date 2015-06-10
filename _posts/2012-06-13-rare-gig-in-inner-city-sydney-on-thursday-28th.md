@@ -6,7 +6,7 @@ author: "Nick Payne"
 
 ## Hi everyone! We don't play in the inner city of Sydney that often and people often ask when we're going to. Well the wait is over!
 
-<p class="text-center"><img src="/images/2012/6/slh-stage.JPG" alt="Sydney Livehouse stage" /></p>
+<p class="text-center"><img src="{{ site.baseurl }}/images/2012/6/slh-stage.JPG" alt="Sydney Livehouse stage" /></p>
 
 <p>On Thursday June 28 we're playing a show at Sydney Livehouse (AKA the Lewisham Hotel) with our friend Chrissie Pearce and friends of hers called Redruth. It's a mere $10 to get in and you can be sure of hearing some great music (I get to play harmonica with Chrissie on a couple of numbers - Nick).</p>
 <p>The folks at Sydney Livehouse are serious about music and they've spruced the placed up to look nice and also put in a new PA and an awesome lighting rig. We're looking forward to this opportunity to play a little closer to home and hope you'll join us for a great night.</p>

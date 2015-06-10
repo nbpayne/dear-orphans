@@ -6,7 +6,7 @@ author: "Nick Payne"
 
 ## After a two year recording hiatus, Dear Orphans are back with their new EP *Midnight at Annandale*.
 
-<p class="text-center"><img src="/images/2011/11/Front.png" alt="Midnight at Annandale" /></p>
+<p class="text-center"><img src="{{ site.baseurl }}/images/2011/11/Front.png" alt="Midnight at Annandale" /></p>
 
 <p>Following on from their debut album <em>Dear Orphans</em>, alt-country songwriters Lyn Taylor and Nick Payne return with a new EP inspired by the local, Sydney bluegrass and old time music community - the Bluegrass and Traditional Country Music Society.</p>
 <p>Nick writes:</p>
@@ -40,4 +40,4 @@ author: "Nick Payne"
 <p><em>Midnight at Annandale</em>&nbsp;is available now as a digital download. Buy now and we'll email you a download code and instructions. We'll also mail you the physical download card and a Dear Orphans badge.</p>
 <p class="text-center"><a class="button radius" style="font-size: 2em;" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SJWT4PL7L6AUS">Buy now</a></p>
 <p>Email any questions to <a class="external" href="mailto:help@giftpony.com.au">help@giftpony.com.au</a> for a speedy reply.</p>
-<p class="text-center"><img src="/images/2011/11/download-card.jpg" alt="Download Card" /></p>
+<p class="text-center"><img src="{{ site.baseurl }}/images/2011/11/download-card.jpg" alt="Download Card" /></p>

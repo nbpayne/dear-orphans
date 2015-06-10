@@ -6,7 +6,7 @@ author: "Nick Payne"
 
 ## We're super excited to announce that Sydney bluegrass community legends the <em>Stomp Kats</em> will be our feature guest at our first Orphanage Session for 2012.
 
-<p class="right" style="margin: 0 0 1em 1em"><img src="/images/2012/3/The Orphanage Sessions 2012.1 A6 WEB.png" alt="The Orphanage Session: Stomp Kats + Dear Orphans" /></p>
+<p class="right" style="margin: 0 0 1em 1em"><img src="{{ site.baseurl }}/images/2012/3/The Orphanage Sessions 2012.1 A6 WEB.png" alt="The Orphanage Session: Stomp Kats + Dear Orphans" /></p>
 <p>We've been busy since November playing at the Tamworth Country Music Festival, rehearsing heaps, writing new songs, and the list goes on. So we're looking forward to getting back to Mars Hill Cafe and playing in one of our favourite ever spaces. We're particularly excited to have the Stomp Kats as our feature guests, because we've admired them for a very long time and we love what they do.</p>
 <p>The Stomp Kats, Holstein (aka Steve Vassallo) and Bo'Weavil (aka Marcel Chaloupka) play the real deal, old-style pre-war old time bluegrass. They are reminiscent of the sounds of rural America sometime between the 19th and early 20th century, with their hard'n fast bluegrass gutbucket rhythms and high lonesome harmonies that take you on a journey when life was a little simpler.</p>
 <p style="font-size: 1.5em; font-style: italic; margin-left: 2em; margin-right: 2em;">Old school harmonies, raw acoustic interplay and driving rhythms reminiscent of twangin' country and Delta blues just like the good ol' days.</p>

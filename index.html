@@ -23,7 +23,7 @@ layout: default
               <a href="#" class="button radius">Download <em>Rain</em></a><br>
               <a href="#" class="button radius">Download <em>Old Sydney Town</em></a>
             </p>
-            <p class="text-right"><a href="/music/">... Listen to more</a></p>
+            <p class="text-right"><a href="{{ site.baseurl }}/music/">... Listen to more</a></p>
           </article>
         </div>
 
@@ -37,14 +37,14 @@ layout: default
           <h2>{{ site.posts[0].title }}</h2>
           <p>{{ site.posts[0].date | date: "%b %-d, %Y" }}{% if site.posts[0].author %} • {{ site.posts[0].author }}{% endif %}{% if site.posts[0].meta %} • {{ site.posts[0].meta }}{% endif %}</p>
           <h3>{{ site.posts[0].excerpt | strip_html }}</h3>
-          <p class="text-right"><a href="{{ site.posts[0].url }}">... Read our latest blog post</a></p>
+          <p class="text-right"><a href="{{ site.baseurl }}{{ site.posts[0].url }}">... Read our latest blog post</a></p>
         </article>
       </div>
       <div class="small-12 large-4 large-pull-8 columns">
         <article>
           <h2>Gigs</h2>
           <dl id="gigs-summary"></dl>
-          <p class="right"><a href="/gigs/">... See all our gigs</a></p>
+          <p class="right"><a href="{{ site.baseurl }}/gigs/">... See all our gigs</a></p>
         </article>
       </div>
     </div>

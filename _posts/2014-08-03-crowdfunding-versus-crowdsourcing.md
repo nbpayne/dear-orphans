@@ -35,7 +35,7 @@ author: "Nick Payne"
 <h3 id="lending-a-hand">Lending a hand</h3>
 <p>To my knowledge, no platform out there supports this incremental type of crowdsourcing. So for this project I've decided to try the following.</p>
 <p>I've created a list of needs on the website Trello. It's called the "Lend a hand" board and it lists the things I currently know of that you can lend a hand with. If you'd like to help out, then have a look round and follow the instructions on the specific item to put your hand up.</p>
-<p style="text-align: center;"><a href="https://trello.com/b/OqLEP0L6/lend-a-hand-nick-payne-s-solo-album" target="_blank"><img src="/images/2014/8/lend-a-hand.png" alt="Lend A Hand Trello Board" /></a></p>
+<p style="text-align: center;"><a href="https://trello.com/b/OqLEP0L6/lend-a-hand-nick-payne-s-solo-album" target="_blank"><img src="{{ site.baseurl }}/images/2014/8/lend-a-hand.png" alt="Lend A Hand Trello Board" /></a></p>
 <p>Already in my journey I've had people recommend albums I should listen to as inspiration for what mine could sound like. I've had people suggest venues I could use to record some of the songs in. I've had people offer to come to recording sessions and help operate equipment. I've had some amazing musicians give their time and skills for free.</p>
 <p>Later on in the journey I suspect I will ask for help with funding for things like mastering and manufacturing. Like the current crowdfunding models I'll do this as a type of pre-order. But all in good time.</p>
 <p>For now you can check out the <em>Lend A Hand</em> list here:</p>

@@ -6,7 +6,7 @@ author: "Nick Payne"
 
 ## After having to postpone our recent gig at The Vanguard with Indigo Belle, we now have a new date - Sunday August 29. This is just over a week away so please lock this in your diary now and book tickets straight away.
 
-<p class="right" style="margin: 0 0 1em 1em;"><img style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; " src="/images/2010/8/BPP-Dear-Orphans-Comp-Card-05.jpeg" alt="Dear Orphans" /></p>
+<p class="right" style="margin: 0 0 1em 1em;"><img style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; " src="{{ site.baseurl }}/images/2010/8/BPP-Dear-Orphans-Comp-Card-05.jpeg" alt="Dear Orphans" /></p>
 
 <p>This is going to be a great night with Indigo Belle playing support followed by ourselves with the whole band including Mike Kirkley on pedal steel, Richard Galuzzi on clawhammer banjo and Lindsay Mar on double bass.</p>
 <p>Doors open at 6.30pm for those dining and music will start from around 8pm onwards.</p>
