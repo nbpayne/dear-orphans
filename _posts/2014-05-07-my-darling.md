@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Nick's Solo Album #4: My Darling"
-author: "Nick Payne"
+author: Nick Payne
+published: true
 ---
+
 ## New music from Nick Payne and Katie Brianna
 
 <div class="flex-video">
@@ -16,7 +18,7 @@ author: "Nick Payne"
 <p>To find out more about the album and catch up on progress, please read my previous blogs.</p>
 
 <ul>
-<li><a href="/post/In-2014-I%E2%80%99ll-be-recording-a-solo-album.aspx">Nick's Solo Album #1: In 2014 I&rsquo;ll be recording a solo album</a></li>
-<li><a href="/post/Establishing-a-sound.aspx">Nick's Solo Album #2: Establishing a sound</a></li>
-<li><a href="/post/Songs-and-co-writing.aspx">Nick's Solo Album #3: Songs and co-writing</a></li>
+<li><a href="{{ site.baseurl }}/2014/03/23/in-2014-ill-be-recording-a-solo-album.html">Nick's Solo Album #1: In 2014 I&rsquo;ll be recording a solo album</a></li>
+<li><a href="{{ site.baseurl }}/2014/03/29/establishing-a-sound.html">Nick's Solo Album #2: Establishing a sound</a></li>
+<li><a href="{{ site.baseurl }}/2014/04/13/songs-and-co-writing.html">Nick's Solo Album #3: Songs and co-writing</a></li>
 </ul>
