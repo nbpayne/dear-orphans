@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Road trip to Bellingen"
-author: "Nick Payne"
+title: Road trip to Bellingen
+author: Nick Payne
+published: true
 ---
+
 
 ## The weekend before last I took Friday and Monday off and headed up to Bellingen to see our dear friend Scott Collins.
 
@@ -37,8 +39,8 @@ author: "Nick Payne"
 <p>On the way back down the mountain I insisted on touching the Bellinger River so we took a detour off the main road and found a wooden bridge and a place we could scramble down to the river. The water was clear and large fish were visible.</p>
 <p class="text-center"><img src="{{ site.baseurl }}/images/2011/8/IMG_0517.JPG" alt="" /></p>
 <p>Having arrived back in Bellingen Scott checked his email to discover that the Dorrigo Folk in the Round jam was happening the same afternoon. So back in the car and back up the mountain we went to enjoy a laid back afternoon jamming with the locals.</p>
-<p>Sunday night there were firewo{{ site.baseurl }}rks at the Bellingen showground.</p>
-<p class="text-center"><img src="/images/2011/8/IMG_0519.JPG" alt="" /></p>
+<p>Sunday night there were fireworks at the Bellingen showground.</p>
+<p class="text-center"><img src="{{ site.baseurl }}/images/2011/8/IMG_0519.JPG" alt="" /></p>
 <p><strong>Monday 1/08</strong></p>
 <p>Time to head home :(</p>
 <p>Farewells were said and then I hit the round around 10.</p>
