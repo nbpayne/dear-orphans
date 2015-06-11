@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Tickets available now for Dear Orphans + Indigo Belle @ The Vanguard"
-author: "Nick Payne"
+author: Nick Payne
+published: true
 ---
 
-## After having to postpone our recent gig at The Vanguard with Indigo Belle, we now have a new date - Sunday August 29. This is just over a week away so please lock this in your diary now and book tickets straight away.
+
+## After having to postpone our recent gig at The Vanguard with Indigo Belle, we now have a new date -- Sunday August 29. This is just over a week away so please lock this in your diary now and book tickets straight away.
 
 <p class="right" style="margin: 0 0 1em 1em;"><img style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; " src="{{ site.baseurl }}/images/2010/8/BPP-Dear-Orphans-Comp-Card-05.jpeg" alt="Dear Orphans" /></p>
 
