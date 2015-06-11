@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New date for Dear Orphans + Indigo Belle @ The Vanguard, Newtown -- Sunday August 29"
+title: "New date for Dear Orphans + Indigo Belle @ The Vanguard, Newtown &ndash; Sunday August 29"
 author: Nick Payne
 published: true
 ---
