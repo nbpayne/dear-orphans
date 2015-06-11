@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Read the Illawarra Mercury article on us and the Acoustic Cafe"
-author: "Nick Payne"
+title: Read the Illawarra Mercury article on us and the Acoustic Cafe
+author: Nick Payne
+published: true
 ---
+
 
 ## We're super pleased to be featured in the <em>Good Life</em> section of today's Illawarra Mercury.
 
@@ -12,7 +14,7 @@ author: "Nick Payne"
 <p>Full details for the gig are as follows.</p>
 <p style="text-align: center; font-size: 1.25em;"><strong>Dear Orphans + Rebecca Moore + Mem Davis &amp; The Kindred Spirits @ Acoustic Cafe</strong><br />7pm Saturday September 15<br />Wollongong Town Hall<br />Cnr Crown and Kembla Streets<br />Wollongong NSW</p>
 <h2 style="text-align: center; font-size: 1.25em;">Tickets available at the Wollongong Town Hall box office or online here<br /><a class="external" href="http://sa2.seatadvisor.com/sabo/servlets/TicketRequest?presenter=AUPVMPL&amp;event=ACAFE  " target="_blank">http://sa2.seatadvisor.com/sabo/servlets/TicketRequest?presenter=AUPVMPL&amp;event=ACAFE&nbsp;</a></h2>
-<p style="text-align: center;"><img title="Acoustic Cafe Sessions" src="/images/2012/9/mercury.png" alt="Acoustic Cafe Sessions" /></p>
+<p style="text-align: center;"><img title="Acoustic Cafe Sessions" src="{{ site.baseurl }}/images/2012/9/mercury.png" alt="Acoustic Cafe Sessions" /></p>
 <h2>Acoustic Cafe Sessions</h2>
 <h3>An intimate setting with dim lights, cafe tables, bean bags, candles, wall art installations, a fully licensed bar, coffees and cakes... just add music.</h3>
 <p>These are the ingredients that make for Wollongong Town Hall&rsquo;s first Acoustic Cafe.</p>
