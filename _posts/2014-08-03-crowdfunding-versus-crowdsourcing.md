@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Nick's solo album blog #6: Crowdfunding versus Crowdsourcing"
-author: "Nick Payne"
+author: Nick Payne
+published: true
 ---
+
 ## Is there more to help than money?
 
 <div style="margin-bottom: 1em;">
@@ -39,6 +41,6 @@ author: "Nick Payne"
 <p>Already in my journey I've had people recommend albums I should listen to as inspiration for what mine could sound like. I've had people suggest venues I could use to record some of the songs in. I've had people offer to come to recording sessions and help operate equipment. I've had some amazing musicians give their time and skills for free.</p>
 <p>Later on in the journey I suspect I will ask for help with funding for things like mastering and manufacturing. Like the current crowdfunding models I'll do this as a type of pre-order. But all in good time.</p>
 <p>For now you can check out the <em>Lend A Hand</em> list here:</p>
-<p style="font-size: 1.5em; font-style: italic; margin-left: 2em; margin-right: 2em;"><a href="https://trello.com/b/OqLEP0L6/lend-a-hand-nick-payne-s-solo-album">https://trello.com/b/OqLEP0L6/lend-a-hand-nick-payne-s-solo-album</a></p>
+<p style="font-size: 1.5em; font-style: italic; margin-left: 2em; margin-right: 2em;"><a target="_blank" href="https://trello.com/b/OqLEP0L6/lend-a-hand-nick-payne-s-solo-album">https://trello.com/b/OqLEP0L6/lend-a-hand-nick-payne-s-solo-album</a></p>
 <p>Right now I'm looking for some traditional Irish musos to play on a song. So if you know any or are one and are interested then please check out the Trello board and reach out to me.</p>
 <p>Nick</p>
