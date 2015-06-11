@@ -13,12 +13,11 @@ permalink: /media/
 
 ## Press
 
-<dl>
-<dt>13/04/2015 &ndash; Spreading The Seed: #Q&amp;A with Songwriter Nick Payne</dt>
-<dd><a href="http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne">www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne</a></dd>
-<dt>27/11/2014 &ndash; Unpaved: Interview and new music, Nick Payne on Old Sydney Town</dt>
-<dd><a href="http://unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town/">unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town</a></dd>
-</dl>
+13/04/2015 &ndash; Spreading The Seed: #Q&amp;A with Songwriter Nick Payne
+: [www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne)
+
+27/11/2014 &ndash; Unpaved: Interview and new music, Nick Payne on Old Sydney Town
+: [unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town](http://unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town)
 
 ## Photos
 
