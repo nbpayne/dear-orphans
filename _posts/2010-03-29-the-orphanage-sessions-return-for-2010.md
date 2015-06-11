@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "The Orphanage Sessions return for 2010"
-author: "Nick Payne"
+title: The Orphanage Sessions return for 2010
+author: Nick Payne
+published: true
 ---
+
 
 ## After a relaxing break for a few months The Orphanage Sessions are back with a few changes. 
 
@@ -20,7 +22,7 @@ BENN GUNN is a 2008 Toyota Star Maker Finalist and a 2009 Australian College of 
 <p style="text-align: center;"><a href="http://www.benngunn.com.au/" target="_blank">www.benngunn.com</a></p>
 <p style="text-align: center;"><a href="http://www.myspace.com/jackiedeesongwriter" target="_blank">www.myspace.com/jackiedeesongwriter</a></p>
 <p style="text-align: left;">Full details for the gig are as follows...</p>
-<p style="text-align: center;"><strong>The Orphanage Sessions: Benn Gunn + Dear Orphans + Jackie Dee</strong><br /> Saturday April 10, 2010 7:30PM - 11:00PM<br /> Mars Hill Cafe<br />331 Church Street Parramatta NSW 2150<br />$15 at the door</p>
+<p style="text-align: center;"><strong>The Orphanage Sessions: Benn Gunn + Dear Orphans + Jackie Dee</strong><br /> Saturday April 10, 2010 7:30PM &ndash; 11:00PM<br /> Mars Hill Cafe<br />331 Church Street Parramatta NSW 2150<br />$15 at the door</p>
 <p>As always keep an eye on the Gigs page for all shows, at...</p>
 <p style="text-align: center;"><a href="{{ site.baseurl }}/Gigs/">www.dearorphans.com/Gigs/</a></p>
 <p style="text-align: left;">Hope to see you there.</p>
