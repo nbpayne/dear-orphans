@@ -10,8 +10,8 @@ permalink: /music/
 Some of our music is free to download. Click the following buttons to download MP3s.
 
 <p class="text-center">
-  <a href="#" class="button radius">Download <em>Rain</em></a><br>
-  <a href="#" class="button radius">Download <em>Old Sydney Town</em></a>
+  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Old Sydney Town</em></a><br>
+  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Rain</em></a>
 </p>
 <dl>
   <dt>Midnight At Annandale (2011)</dt>
