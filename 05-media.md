@@ -2,7 +2,9 @@
 layout: page
 title: Media
 permalink: /media/
+published: true
 ---
+
 
 # Media
 
@@ -25,8 +27,9 @@ permalink: /media/
 
 ## Pressers
 
-- 5/05/2015 -- Nick Payne solo project update
-- 9/04/2015 -- New Music: Nick Payne "Old Sydney Town"
+- 5/05/2015 -- [Nick Payne solo project update](http://kriskatpublicity.com.au/nick-payne-solo-project-update/)
+- 9/04/2015 -- [New Music: Nick Payne "Old Sydney Town"](http://kriskatpublicity.com.au/new-music-nick-payne-old-sydney-town/)
 
 ## Contact
 
+<iframe src="https://docs.google.com/forms/d/1VCPhmQAC9e8cq2AUv_fb126QxOUntUsm6z6g5wbgU38/viewform?embedded=true" width="637" height="715" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
