@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Nick’s solo album blog #10: Mixing Rising River"
-author: "Nick Payne"
+author: Nick Payne
+published: true
 ---
+
 
 ## There's a lot that goes into a great sounding recording -- good songs, great performances, good recording gear, etc,. But what happens in mixing that brings that all together to create an *unforgettable* sound?
 
@@ -13,7 +15,7 @@ author: "Nick Payne"
 
 ### In order to make sure that all the work so far combines together into sonic excellence I have a secret weapon -- Glenn Santry.
 
-Glenn runs Heartbeat Studio in Sydney's south and was first introduced to my by *Karl Broadie* when we were recording *Dear Orphans* debut album. Since then I've worked with Glenn on everything we've done including this solo album. Here's a little bit about what happened last Tuesday night when we mixed *Rising River* and how he gets the sound.
+Glenn runs Heartbeat Studio in Sydney's south and was first introduced to me by *Karl Broadie* when we were recording *Dear Orphans* debut album. Since then I've worked with Glenn on everything we've done including this solo album. Here's a little bit about what happened last Tuesday night when we mixed *Rising River* and how he gets the sound.
 
 ### The Brain
 
