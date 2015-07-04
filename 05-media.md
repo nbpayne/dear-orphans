@@ -16,11 +16,11 @@ published: true
 
 ## Press
 
-13/04/2015 &ndash; Spreading The Seed: #Q&amp;A with Songwriter Nick Payne
-: [www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne)
+13/04/2015 &ndash; [Spreading The Seed: #Q&amp;A with Songwriter Nick Payne](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne)
+: [Read more...](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne)
 
-27/11/2014 &ndash; Unpaved: Interview and new music, Nick Payne on Old Sydney Town
-: [unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town](http://unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town)
+27/11/2014 &ndash; [Unpaved: Interview and new music, Nick Payne on Old Sydney Town](http://unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town)
+: [Read more...](http://unpaved.com.au/interview-and-new-music-nick-payne-on-old-sydney-town)
 
 ## Photos
 
