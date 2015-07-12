@@ -13,7 +13,7 @@ image: https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xpf1/t51.2885-15/1099522
 
 <h3 id="here-s-an-update-on-what-i-ve-achieved-so-far-some-of-the-techniques-i-m-using-to-keep-things-moving-and-the-debut-of-the-official-video-clip-for-old-sydney-town-">Here's an update on what I've achieved so far, some of the techniques I'm using to keep things moving and the debut of the official video clip for <em>Old Sydney Town</em>.</h3>
 
-It's been a long road so far, but it's starting to feel like I'm getting somewhere. The album has twelve tracks and divides into two sides with six tracks each (the songs are in thematic pairs -- see <a title="Blog Post #3: Songs and co-writing" href="/post/Songs-and-co-writing.aspx">Blog Post #3: Songs and co-writing</a>). I've been concentrating on side B and of these six songs, two are mixed and mastered (i.e. completely done), two are in the final stages of recording (we recorded the songs live and are now adding extra parts --- backing vocals, flugelhorn, etc --- we call this overdubbing) and two are ready to start recording.
+It's been a long road so far, but it's starting to feel like I'm getting somewhere. The album has twelve tracks and divides into two sides with six tracks each (the songs are in thematic pairs -- see <a title="Blog Post #3: Songs and co-writing" href="{{ site.baseurl }}/2014/04/13/songs-and-co-writing.html">Blog Post #3: Songs and co-writing</a>). I've been concentrating on side B and of these six songs, two are mixed and mastered (i.e. completely done), two are in the final stages of recording (we recorded the songs live and are now adding extra parts --- backing vocals, flugelhorn, etc --- we call this overdubbing) and two are ready to start recording.
 
 Specifically, these two are done:
 

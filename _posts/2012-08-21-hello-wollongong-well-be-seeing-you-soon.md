@@ -16,7 +16,7 @@ author: "Nick Payne"
 <p>There's already a heap of interest being shown in this gig so we suggest getting in early and purchasing tickets from the Wollongong Town Hall box office or online.</p>
 <p style="text-align: center; font-size: 1.25em;"><strong>Dear Orphans + Rebecca Moore + Mem Davis &amp; The Kindred Spirits @ Acoustic Cafe</strong><br />7pm Saturday September 15<br />Wollongong Town Hall<br />Cnr Crown and Kembla Streets<br />Wollongong NSW</p>
 <h2 style="text-align: center; font-size: 1.25em;">Tickets available at the Wollongong Town Hall box office or online here<br /><a class="external" href="http://sa2.seatadvisor.com/sabo/servlets/TicketRequest?presenter=AUPVMPL&amp;event=ACAFE  " target="_blank">http://sa2.seatadvisor.com/sabo/servlets/TicketRequest?presenter=AUPVMPL&amp;event=ACAFE&nbsp;</a></h2>
-<p>Drop us a line via our <a href="/contact.aspx">Contact Us</a> page if you've got any questions.</p>
+<p>Drop us a line via our <a href="{{ site.baseurl }}/contact/">Contact Us</a> page if you've got any questions.</p>
 <p>We'd also super appreciate it if you spread the news. A great way to do this is to invite people you know who'd be interested to the Facebook event. You can find it at:</p>
 <h2 style="text-align: center; font-size: 1.25em;"><a class="external" href="http://www.facebook.com/events/420743677962900/" target="_blank">www.facebook.com/events/420743677962900</a></h2>
 <p>Hope to see you there!</p>

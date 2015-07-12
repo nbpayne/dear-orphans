@@ -13,5 +13,5 @@ published: true
 <p>Also, we're looking forward to having Richard Galluzzi join us on clawhammer banjo as well as Lindsay Mar on upright bass. We've worked up a new number which is an instrumental that showcases Richard's impressive banjo playing and my more than adequate dobro playing.</p>
 <p>Just a reminder of the time and place... and check out the Gigs page and the Concert for a Cure website at the links below.</p>
 <p class="blockquote" style="margin-left: 2em;"><strong>Concert for a Cure<br /></strong> Saturday March 20, 2010 12:00PM &ndash; 8:00PM<br />Blacktown Olympic Park<br />Eastern Road<br />Rooty Hill NSW 2766</p>
-<p><a href="{{ site.baseurl }}/gigs/">www.dearorphans.com/gigs/</a><br /><a href="http://www.concert4cure.com.au" target="_blank">www.concert4cure.com.au</a></p>
+<p><a href="{{ site.baseurl }}/gigs/">www.dearorphans.com/gigs/</a></p>
 <p>Nick</p>

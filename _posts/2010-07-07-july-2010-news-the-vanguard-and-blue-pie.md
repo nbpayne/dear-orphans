@@ -22,7 +22,7 @@ author: "Nick Payne"
 <p><a href="http://www.facebook.com/event.php?eid=116687218377382" target="_blank">http://www.facebook.com/event.php?eid=116687218377382</a></p>
 <p>We'd certainly appreciate it if you spread the word and invited others you know who may be interested.</p>
 <h3>Dear Orphans CD available for sale online</h3>
-<p>If you're looking for a copy of our CD you can now buy it online on the <a href="/Page/Music.aspx">music page</a> of this site.</p>
+<p>If you're looking for a copy of our CD you can now buy it online on the <a href="{{ site.baseurl }}/music/">music page</a> of this site.</p>
 <p>You can also find it on iTunes <a href="http://itunes.apple.com/au/album/stereo/id377950023" target="_blank">here</a>. Unfortunately it's been put up with the wrong name, but hopefully that'll be fixed soon!</p>
 <p>&nbsp;</p>
 <p>Thanks for reading and we hope to see you at The Vanguard in a few weeks time.</p>
