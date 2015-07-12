@@ -5,7 +5,7 @@ description: >
   Connecting with the simplicity of life, while laying bare the bones of the 
   human condition, is what Dear Orphans and their music are all about.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://test.dearorphans.com" # the base hostname & protocol for your site
+url: "http://www.dearorphans.com" # the base hostname & protocol for your site
 image: /images/media/Dear-Orphans-PRINT-01.jpg
 twitter_username: dearorphans
 github_username:  nbpayne
