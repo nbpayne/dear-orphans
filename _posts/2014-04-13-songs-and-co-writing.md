@@ -2,7 +2,9 @@
 layout: post
 title: "Blog Post #3: Songs and co-writing"
 author: "Nick Payne"
+image: https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/1170024_1423313184594257_1133630812_n.jpg
 ---
+
 ## Great albums hang together. What takes an album from being a bunch of songs to a unified story?
 
 <div style="margin-bottom: 1em;">

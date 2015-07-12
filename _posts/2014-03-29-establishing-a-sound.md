@@ -2,7 +2,9 @@
 layout: post
 title: "Nick's Solo Album #2: Establishing a sound"
 author: "Nick Payne"
+image: https://igcdn-photos-g-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11357796_1607717416152230_151617447_n.jpg
 ---
+
 ## Some albums can take your breath away, whilst others breeze past you without notice. What is it that places an album in the first category and not the second?
 
 <div style="margin-bottom: 1em;">

@@ -3,6 +3,7 @@ layout: post
 title: "Nick's solo album blog #6: Crowdfunding versus Crowdsourcing"
 author: Nick Payne
 published: true
+image: https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/10544275_734499469939789_1017742156_n.jpg
 ---
 
 ## Is there more to help than money?

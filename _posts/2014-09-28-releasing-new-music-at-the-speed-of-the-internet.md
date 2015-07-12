@@ -2,6 +2,7 @@
 layout: post
 title: "Nick's solo album blog #7: Releasing new music at the speed of the internet"
 author: "Nick Payne"
+image: https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/10471922_644432635625873_1957782589_n.jpg
 ---
 
 ## At the end of March I announced I was recording a solo album this year - so where the hell is it?

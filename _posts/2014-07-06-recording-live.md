@@ -2,7 +2,9 @@
 layout: post
 title: "Nick's Solo Album #5: Recording live"
 author: "Nick Payne"
+image: https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xfp1/t51.2885-15/926826_781419855225460_1146844204_n.jpg
 ---
+
 ## Taking a risk - did it pay off?
 
 <div class="flex-video">

@@ -2,6 +2,7 @@
 layout: post
 title: "Nick's solo album blog #9: Progress, keeping things moving and the first video clip"
 author: "Nick Payne"
+image: https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xpf1/t51.2885-15/10995223_1579939445552299_557564548_n.jpg
 ---
 ## Recording an album of twelve tracks is a big deal. Whilst it can be frustrating trying to coordinate so many people, the rewards are gratifying.
 

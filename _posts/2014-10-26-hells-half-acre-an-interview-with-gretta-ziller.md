@@ -2,7 +2,7 @@
 layout: post
 title: "Hell's Half Acre: An interview with Gretta Ziller"
 author: "Nick Payne"
-author: "Nick Payne"
+image: https://i.ytimg.com/vi/RB1JDQ9cdGg/maxresdefault.jpg
 ---
 
 ## In a few weeks we return to one of our musical homes at <em>Mars Hill Cafe</em> in Parramatta for a one-off <em>Orphanage Session</em>. In anticipation I asked our feature guest <em>Gretta Ziller</em> some questions.

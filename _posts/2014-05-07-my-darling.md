@@ -3,6 +3,7 @@ layout: post
 title: "Nick's Solo Album #4: My Darling"
 author: Nick Payne
 published: true
+image: https://i.ytimg.com/vi/Dexu7KKVwQg/maxresdefault.jpg
 ---
 
 ## New music from Nick Payne and Katie Brianna
