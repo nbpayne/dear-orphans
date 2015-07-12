@@ -11,14 +11,16 @@ published: true
 
 <img data-interchange="[/images/home-bg-small.jpg, (default)], [/images/home-bg-large.jpg, (medium)]">
 
+### Dear Orphans’ music embraces the simplicity of life while connecting with the human condition.
+
 Featuring the songwriting of Lyn Taylor and Nick Payne set against bluegrass and old-time lineup Dear Orphans’ music weaves stories of love lost, love found, bushrangers, cowboys and road trips.
 
 Nick is currently recording a solo album for release late 2015.
 
 ## Bio
 
-- [Dear Orphans (1.1MB PDF)](/files/Dear-Orphans-BIO.pdf)
-- [Nick Payne (238KB PDF)](/files/Nick-Payne-BIO.pdf)
+- [Dear Orphans (1.1MB PDF)](/files/Dear-Orphans-BIO.pdf){:target="_blank"}
+- [Nick Payne (238KB PDF)](/files/Nick-Payne-BIO.pdf){:target="_blank"}
 
 ## Press
 
@@ -33,25 +35,47 @@ Nick is currently recording a solo album for release late 2015.
 
 ## Photos
 
-High-resolution, print-ready photos. Right click and select "Save as..." to download.
+High-resolution, print-ready photos. Right-click and select "Save as..." to download.
 
 <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
+    <a href="/images/media/Lyn-Taylor-PRINT-01.jpg" target="_blank">
+      <img alt="Lyn Taylor" src="/images/media/th/Lyn-Taylor-PRINT-01.jpg" />
+    </a>
+  </li>
+  <li>
+    <a href="/images/media/Dear-Orphans-PRINT-01.jpg" target="_blank">
+      <img alt="Dear Orphans" src="/images/media/th/Dear-Orphans-PRINT-01.jpg" />
+    </a>
+    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank">
+      <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-02.jpg" />
+    </a>
+  </li>
+  <li>
     <a href="/images/media/Nick-Payne-PRINT-01.jpg" target="_blank">
       <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-01.jpg" />
     </a>
   </li>
+</ul>
+
+## Album artwork
+
+High-resolution, album artwork. Right-click and select "Save as..." to download.
+
+<ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
-    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank">
-      <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-02.jpg" />
-    </a>
-    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank">
-      <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-02.jpg" />
+    <a href="/images/media/Old-Sydney-Town-2015.jpg" target="_blank">
+      <img alt="Old Sydney Town &ndash; Single (2015)" src="/images/media/th/Old-Sydney-Town-2015.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Nick-Payne-PRINT-01.jpg" target="_blank">
-      <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-01.jpg" />
+    <a href="/images/media/Midnight-at-Annandale-2011.jpg" target="_blank">
+      <img alt="Midnight at Annandale (2011)" src="/images/media/th/Midnight-at-Annandale-2011.jpg" />
+    </a>
+  </li>
+  <li>
+    <a href="/images/media/Dear-Orphans-2009.jpg" target="_blank">
+      <img alt="Dear Orphans (2009)" src="/images/media/th/Dear-Orphans-2009.jpg" />
     </a>
   </li>
 </ul>
