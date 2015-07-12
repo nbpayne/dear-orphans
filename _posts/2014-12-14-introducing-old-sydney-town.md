@@ -3,6 +3,8 @@ layout: post
 title: "Nick's solo album blog #8: Introducing... Old Sydney Town"
 author: "Nick Payne"
 image: https://i.ytimg.com/vi/Mar3FxUWqH0/maxresdefault.jpg
+redirect_from:
+  - /page/Old-Sydney-Town.aspx/
 ---
 ## The first single off my upcoming debut solo album is done! And you can download it now.
 

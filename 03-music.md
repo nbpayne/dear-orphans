@@ -2,6 +2,8 @@
 layout: page
 title: Music
 permalink: /music/
+redirect_from:
+  - /page/music.aspx/
 ---
 # Music
 
