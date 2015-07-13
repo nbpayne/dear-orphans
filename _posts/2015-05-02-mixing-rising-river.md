@@ -4,6 +4,8 @@ title: "Nick’s solo album blog #10: Mixing Rising River"
 author: Nick Payne
 published: true
 image: https://igcdn-photos-d-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/10963986_642626669175083_1293926281_n.jpg
+redirect_from: 
+  - /post/Mixing-Rising-River.aspx/
 ---
 
 
