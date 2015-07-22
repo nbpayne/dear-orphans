@@ -2,6 +2,9 @@
 layout: page
 title: Bio
 permalink: /bio/
+redirect_to:
+  - /page/Bio.aspx/
+  - /page/bio.aspx/
 ---
 
 # Biography
