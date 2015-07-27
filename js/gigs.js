@@ -16,7 +16,15 @@ $(function () {
   .done(function (data) {
     for (var item in data.items) {
       var dt = document.createElement('dt');
-      dt.innerText = moment(data.items[item].start.dateTime).format('LLL');
+      if (data.items[item].start.dateTime) {
+        dt.innerHTML = moment(data.items[item].start.dateTime).format('LLL') + ' &ndash; ' + 
+          moment(data.items[item].end.dateTime).format('LT');
+      } else {
+        dt.innerHTML = moment(data.items[item].start.date).format('LL') + ' &ndash; ' + 
+          moment(data.items[item].end.date).format('LL');
+      };
+      
+
 
       var dd = document.createElement('dd');
       $(dd).append('<h3>' + data.items[item].summary + '</h3>');
