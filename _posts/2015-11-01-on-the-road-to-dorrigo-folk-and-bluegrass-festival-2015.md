@@ -3,7 +3,7 @@ layout: post
 title: "On The Road: Dorrigo Folk and Bluegrass Festival 2015"
 author: Nick Payne
 published: true
-image: 
+image: https://igcdn-photos-c-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/e35/12071226_822855541165274_419624128_n.jpg
 ---
 
 ## *Dorrigo Folk and Bluegrass Festival* is one of our favourite festivals in the country. We haven't been for a few years so I was stoked when they offered me a chance to showcase my solo stuff this year. Here's some photos from my tour diary from the weekend.
