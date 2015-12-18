@@ -7,6 +7,7 @@ published: true
 
 
 
+
 # Media
 
 <img data-interchange="[/images/home-bg-small.jpg, (default)], [/images/home-bg-large.jpg, (medium)]">
@@ -23,6 +24,9 @@ Nick is currently recording a solo album for release late 2015.
 - [Nick Payne (238KB PDF)](/files/Nick-Payne-BIO.pdf){:target="_blank"}
 
 ## Press
+
+18/12/2015 -- [Gareth Hugh Evans’ Top 25 Tracks of 2015](https://timberandsteel.wordpress.com/2015/12/18/gareth-hugh-evans-top-25-tracks-of-2015/){:target="_blank"}
+: "I’ve had the pleasure of watching Nick Payne workshopping his convict folk song at jam sessions and festivals over the past 18 months and what he’s managed to capture on tape is pretty bang on what you’ll get live. I love the old time feel of this track and the fine group of musicians he’s managed to amass to accompany him (including many members of his band Dear Orphans) elevate the song to another level. I love the “behind the music” style of the video as well -- very nice."
 
 13/04/2015 -- [Spreading The Seed: #Q&amp;A with Songwriter Nick Payne](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne){:target="_blank"}
 : "That was the moment where I gave myself permission to like country music and from there I followed all the influences I could down the line all the way back to Hank Williams and Ralph Stanley. The rest is history -- as they say."
