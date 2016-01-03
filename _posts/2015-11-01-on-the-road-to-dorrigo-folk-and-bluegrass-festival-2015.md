@@ -54,7 +54,10 @@ Whilst it might look in this one that someone has stood on my foot that is not t
 
 <div class="fb-post" style="margin-bottom: 1.25rem;" data-href="http://www.facebook.com/littlestorypage/photos/a.527305120755105.1073741831.314977791987840/527305477421736" data-width="636"></div>
 
-At 4pm we hit the stage with the whole crew: Paul on double bass, Ben on banjo, Jo on dobro and mandolin and Lyn on vocals and guitar. This great shot is from Gareth Evans from the blog [Timber and Steel](https://timberandsteel.wordpress.com/).
+At 4pm we hit the stage with the whole crew: Paul on double bass, Ben on banjo, Jo on dobro and mandolin and Lyn on vocals and guitar. 
+
+<!--
+This great shot is from Gareth Evans from the blog [Timber and Steel](https://timberandsteel.wordpress.com/).
 
 <div style="margin-bottom: 1.25rem;">
 	<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="http://instagram.com/p/9NYIagBCN0/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Looks like @orphan_nick managed to sneak @lyniemaree and most of @dearorphans into the Dorrigo Folk Festival.</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Gareth Evans (@garethhevans) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-10-24T05:43:03+00:00">Oct 23, 2015 at 10:43pm PDT</time></p></div></blockquote>
@@ -62,6 +65,7 @@ At 4pm we hit the stage with the whole crew: Paul on double bass, Ben on banjo, 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 It's such a priviledge to share a microphone with Lyn.
+-->
 
 <div class="fb-post" style="margin-bottom: 1.25rem;" data-href="http://www.facebook.com/photo.php?fbid=1630966517155043&set=a.1630959750489053.1073741845.100007251303304" data-width="636"></div>
 
