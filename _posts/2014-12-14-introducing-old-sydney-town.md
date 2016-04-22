@@ -6,6 +6,10 @@ image: "https://i.ytimg.com/vi/Mar3FxUWqH0/maxresdefault.jpg"
 redirect_from: 
   - "/page/Old-Sydney-Town.aspx/"
   - "/page/old-sydney-town.aspx/"
+  - "/post/introducing-old-sydney-town.aspx/"
+  - "/post/introducing-old-sydney-town.aspx?utm_source=mailing+list&utm_campaign=133e58139b-2014-12_old_sydney_town&utm_medium=email&utm_term=0_a51945df6d-133e58139b-209478957"
+  - "/post/introducing-old-sydney-town.aspx?utm_source=mailing+list&utm_campaign=133e58139b-2014-12_old_sydney_town&utm_medium=email&utm_term=0_a51945df6d-133e58139b-209478981"
+  - "/post/introducing-old-sydney-town.aspx?utm_source=mailing+list&utm_campaign=133e58139b-2014-12_old_sydney_town&utm_medium=email&utm_term=0_a51945df6d-133e58139b-209478573"
 published: true
 ---
 ## The first single off my upcoming debut solo album is done! And you can download it now.
