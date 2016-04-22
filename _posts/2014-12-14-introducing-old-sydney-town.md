@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Nick's solo album blog #8: Introducing... Old Sydney Town"
-author: "Nick Payne"
-image: https://i.ytimg.com/vi/Mar3FxUWqH0/maxresdefault.jpg
-redirect_from:
-  - /page/Old-Sydney-Town.aspx/
+author: Nick Payne
+image: "https://i.ytimg.com/vi/Mar3FxUWqH0/maxresdefault.jpg"
+redirect_from: 
+  - "/page/Old-Sydney-Town.aspx/"
+  - "/page/old-sydney-town.aspx/"
+published: true
 ---
 ## The first single off my upcoming debut solo album is done! And you can download it now.
 
@@ -51,4 +53,3 @@ Featuring on the song are:
 > Nick Payne - lead vocals and Martin HD28V<br />Paul Sun - double bass<br />Jolyon Gray - dobro<br />Carlyn Chen - fiddle<br />And special guest Jenny Shimmin - bluegrass banjo
 
 > Recorded by Nick Payne and Lyn Taylor<br />Mixed and mastered by Glenn Santry at Heartbeat Studios
-
