@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dear Orphans visit Melbourne - Episode 3 shot entirely with Instagram"
+title: "Dear Orphans visit Melbourne &ndash; Episode 3 shot entirely with Instagram"
 author: "Nick Payne"
 ---
 
