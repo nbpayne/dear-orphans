@@ -8,6 +8,7 @@
   <meta property="og:url" content="{{ page.url | replace: 'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="fb:app_id" content="393106670879204">
+  <meta property="fb:pages" content="121194417338" />
   <meta property="og:type" content="article">
   <meta property="og:image" content="{% if page.image %}{{ page.image}}{% else %}{{ site.image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <meta property="og:updated_time" content="{% if page.date %}{{ page.date }}{% else %}{{ site.time }}{% endif %}">
