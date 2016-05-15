@@ -3,7 +3,8 @@ layout: post
 title: "Rising River &ndash; A Cautionary Tale"
 author: Kristin Moore
 published: true
-image: 
+image: https://www.instagram.com/p/BFX46uztoEd/media/?size=l
+
 ---
 
 ## Guest blogger *Kristin Moore* reviews Nick's next single off his forthcoming album --- Rising River -- a cautionary tale set in the hills of the Snowy Mountains and Victorian High Country.
@@ -22,6 +23,10 @@ Storytelling and a sense of place is as important to Nick as the music, and the 
 It is this mixture of modern sensibility with a traditional musical and storytelling form that makes ‘Rising River’ so captivating and listenable. Another beautiful glimpse into what is shaping up to be one of the album releases of the year.
 
 <p class="text-right"><em>Kristin Moore 2016</em></p>
+
+### Listen to "Rising River"
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252131267&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ### Download "Rising River"
 
