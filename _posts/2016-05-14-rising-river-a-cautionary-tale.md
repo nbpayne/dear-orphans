@@ -3,8 +3,7 @@ layout: post
 title: "Rising River &ndash; A Cautionary Tale"
 author: Kristin Moore
 published: true
-image: https://www.instagram.com/p/BFX46uztoEd/media/?size=l
-
+image: "https://www.instagram.com/p/BFX46uztoEd/media/?size=m"
 ---
 
 ## Guest blogger *Kristin Moore* reviews Nick's next single off his forthcoming album --- Rising River -- a cautionary tale set in the hills of the Snowy Mountains and Victorian High Country.
@@ -49,4 +48,4 @@ Download *Rising River* for free now -- click the button.
 **Lyn Taylor:** Backing vocals  
 **Michael Roberts (AKA Mickey Blue Eyes):** Poorly tuned upright piano  
 **Paul Sun:** Double bass  
-**Oscar Henfrey:** Snare that annoyed the downstairs neighbour  
+**Oscar Henfrey:** Snare that annoyed the downstairs neighbour
