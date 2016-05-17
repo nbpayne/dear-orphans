@@ -86,7 +86,13 @@ High-resolution, album artwork. Right-click and select "Save as..." to download.
 
 ## Download music
 
-The first single from Nick's upcoming solo album --- *Old Sydney Town* --- is currently being played on radio.
+The second single from Nick's upcoming solo album --- *Rising River* --- is currently being played on radio.
+
+<p class="text-center">
+      <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Rising River</em></a>
+</p>
+
+The first single from Nick's upcoming solo album -- *Old Sydney Town*.
 
 <p class="text-center">
   <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Old Sydney Town</em></a><br>
@@ -100,6 +106,7 @@ The first single from Nick's upcoming solo album --- *Old Sydney Town* --- is cu
 
 ## Pressers
 
+- 17/05/2016 -- [New Music: Nick Payne "Rising River"](http://kriskatpublicity.com.au/nick-payne-2/)
 - 5/05/2015 -- [Nick Payne solo project update](http://kriskatpublicity.com.au/nick-payne-solo-project-update/)
 - 9/04/2015 -- [New Music: Nick Payne "Old Sydney Town"](http://kriskatpublicity.com.au/new-music-nick-payne-old-sydney-town/)
 
