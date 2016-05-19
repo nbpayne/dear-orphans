@@ -5,9 +5,6 @@ permalink: /media/
 published: true
 ---
 
-
-
-
 # Media
 
 <img data-interchange="[/images/home-bg-small.jpg, (default)], [/images/home-bg-large.jpg, (medium)]">
@@ -26,7 +23,7 @@ Nick is currently recording a solo album for release late 2015.
 ## Press
 
 18/12/2015 -- [Gareth Hugh Evans’ Top 25 Tracks of 2015](https://timberandsteel.wordpress.com/2015/12/18/gareth-hugh-evans-top-25-tracks-of-2015/){:target="_blank"}
-: "I’ve had the pleasure of watching Nick Payne workshopping his convict folk song at jam sessions and festivals over the past 18 months and what he’s managed to capture on tape is pretty bang on what you’ll get live. I love the old time feel of this track and the fine group of musicians he’s managed to amass to accompany him (including many members of his band Dear Orphans) elevate the song to another level. I love the “behind the music” style of the video as well -- very nice."
+: "I’ve had the pleasure of watching Nick Payne workshopping his convict folk song at jam sessions and festivals over the past 18 months and what he’s managed to capture on tape is pretty bang on what you’ll get live. I love the old time feel of this track and the fine group of musicians he’s managed to amass to accompany him (including many members of his band Dear Orphans) elevate the song to another level. I love the 'behind the music' style of the video as well -- very nice."
 
 13/04/2015 -- [Spreading The Seed: #Q&amp;A with Songwriter Nick Payne](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne){:target="_blank"}
 : "That was the moment where I gave myself permission to like country music and from there I followed all the influences I could down the line all the way back to Hank Williams and Ralph Stanley. The rest is history -- as they say."
@@ -41,23 +38,42 @@ Nick is currently recording a solo album for release late 2015.
 
 High-resolution, print-ready photos. Right-click and select "Save as..." to download.
 
+### Portrait
+
 <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
     <a href="/images/media/Lyn-Taylor-PRINT-01.jpg" target="_blank">
-      <img alt="Lyn Taylor" src="/images/media/th/Lyn-Taylor-PRINT-01.jpg" />
-    </a>
-  </li>
-  <li>
-    <a href="/images/media/Dear-Orphans-PRINT-01.jpg" target="_blank">
-      <img alt="Dear Orphans" src="/images/media/th/Dear-Orphans-PRINT-01.jpg" />
-    </a>
-    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank">
-      <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-02.jpg" />
+      <img alt="Lyn Taylor" title="Lyn Taylor" src="/images/media/th/Lyn-Taylor-PRINT-01.jpg" />
     </a>
   </li>
   <li>
     <a href="/images/media/Nick-Payne-PRINT-01.jpg" target="_blank">
-      <img alt="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-01.jpg" />
+      <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-01.jpg" />
+    </a>
+  </li>
+</ul>
+
+### Landscape
+
+<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2 ths">
+  <li>
+    <a href="/images/media/Dear-Orphans-PRINT-01.jpg" target="_blank">
+      <img alt="Dear Orphans" title="Dear Orphans" src="/images/media/th/Dear-Orphans-PRINT-01.jpg" />
+    </a>
+  </li>
+  <li>
+    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank">
+      <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-02.jpg" />
+    </a>
+  </li>
+  <li>
+    <a href="/images/media/Nick-Payne-PRINT-03.jpg" target="_blank">
+      <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-03.jpg" />
+    </a>
+  </li>
+  <li>
+    <a href="/images/media/Nick-Payne-PRINT-04.jpg" target="_blank">
+      <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-04.jpg" />
     </a>
   </li>
 </ul>
@@ -68,18 +84,23 @@ High-resolution, album artwork. Right-click and select "Save as..." to download.
 
 <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
+    <a href="/images/media/rising-river-2016.jpg" target="_blank">
+      <img alt="Rising River &ndash; Single (2016)" title="Rising River &ndash; Single (2016)" src="/images/media/th/rising-river-2016.jpg" />
+    </a>
+  </li>
+  <li>
     <a href="/images/media/Old-Sydney-Town-2015.jpg" target="_blank">
-      <img alt="Old Sydney Town &ndash; Single (2015)" src="/images/media/th/Old-Sydney-Town-2015.jpg" />
+      <img alt="Old Sydney Town &ndash; Single (2015)" title="Old Sydney Town &ndash; Single (2015)" src="/images/media/th/Old-Sydney-Town-2015.jpg" />
     </a>
   </li>
   <li>
     <a href="/images/media/Midnight-at-Annandale-2011.jpg" target="_blank">
-      <img alt="Midnight at Annandale (2011)" src="/images/media/th/Midnight-at-Annandale-2011.jpg" />
+      <img alt="Midnight at Annandale (2011)" title="Midnight at Annandale (2011)" src="/images/media/th/Midnight-at-Annandale-2011.jpg" />
     </a>
   </li>
   <li>
     <a href="/images/media/Dear-Orphans-2009.jpg" target="_blank">
-      <img alt="Dear Orphans (2009)" src="/images/media/th/Dear-Orphans-2009.jpg" />
+      <img alt="Dear Orphans (2009)" title="Dear Orphans (2009)" src="/images/media/th/Dear-Orphans-2009.jpg" />
     </a>
   </li>
 </ul>
@@ -106,9 +127,9 @@ The first single from Nick's upcoming solo album -- *Old Sydney Town*.
 
 ## Pressers
 
-- 17/05/2016 -- [New Music: Nick Payne "Rising River"](http://kriskatpublicity.com.au/nick-payne-2/)
-- 5/05/2015 -- [Nick Payne solo project update](http://kriskatpublicity.com.au/nick-payne-solo-project-update/)
-- 9/04/2015 -- [New Music: Nick Payne "Old Sydney Town"](http://kriskatpublicity.com.au/new-music-nick-payne-old-sydney-town/)
+- 17/05/2016 -- [New Music: Nick Payne "Rising River"](http://kriskatpublicity.com.au/nick-payne-2/){:target="_blank"}
+- 5/05/2015 -- [Nick Payne solo project update](http://kriskatpublicity.com.au/nick-payne-solo-project-update/){:target="_blank"}
+- 9/04/2015 -- [New Music: Nick Payne "Old Sydney Town"](http://kriskatpublicity.com.au/new-music-nick-payne-old-sydney-town/){:target="_blank"}
 
 ## Contact
 
