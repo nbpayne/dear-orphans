@@ -85,7 +85,7 @@ High-resolution, album artwork. Right-click and select "Save as..." to download.
 <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
     <a href="/images/media/rising-river-2016.jpg" target="_blank">
-      <img alt="Rising River &ndash; Single (2016)" title="Rising River &ndash; Single (2016)" src="/images/media/th/rising-river-2016.jpg" />
+      <img alt="Rising River &ndash; Single (2016)" title="Rising River &ndash; Single (2016)" src="/images/media/th/Rising-River-2016.jpg" />
     </a>
   </li>
   <li>
