@@ -17,7 +17,7 @@ $(function () {
     for (var item in data.items) {
       var dt = document.createElement('dt');
       if (data.items[item].start.dateTime) {
-        dt.innerHTML = moment(data.items[item].start.dateTime).format('LLL') + ' &ndash; ' + 
+        dt.innerHTML = moment(data.items[item].start.dateTime).format('LLLL') + ' &ndash; ' + 
           moment(data.items[item].end.dateTime).format('LT');
       } else {
         dt.innerHTML = moment(data.items[item].start.date).format('LL') + ' &ndash; ' + 
