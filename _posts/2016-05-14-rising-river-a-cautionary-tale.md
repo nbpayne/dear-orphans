@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Rising River &ndash; A Cautionary Tale"
+title: Rising River &ndash; A Cautionary Tale
 author: Kristin Moore
 published: true
-image: "https://www.instagram.com/p/BFX46uztoEd/media/?size=m"
+image: 'https://www.instagram.com/p/BFX46uztoEd/media/?size=m'
 ---
 
 ## Guest blogger *Kristin Moore* reviews Nick's next single off his forthcoming album --- Rising River -- a cautionary tale set in the hills of the Snowy Mountains and Victorian High Country.
@@ -32,6 +32,10 @@ It is this mixture of modern sensibility with a traditional musical and storytel
 Download *Rising River* for free now -- click the button.
 
 <p class="text-center"><a class="button" title="Download Rising River" href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Rising River</a></p>
+
+Download my previous song *Old Sydney Town* for free now -- click the button.
+
+<p style="text-align: center;"><a class="button" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Old Sydney Town</a></p>
 
 ### Credits
 
