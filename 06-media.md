@@ -22,7 +22,7 @@ Nick is currently recording a solo album for release late 2015.
 
 ## Press
 
-18/12/2015 -- [Gareth Hugh Evans’ Top 25 Tracks of 2015](https://timberandsteel.wordpress.com/2015/12/18/gareth-hugh-evans-top-25-tracks-of-2015/){:target="_blank"}
+18/12/2015 -- [Timber and Steel: Gareth Hugh Evans’ Top 25 Tracks of 2015](https://timberandsteel.wordpress.com/2015/12/18/gareth-hugh-evans-top-25-tracks-of-2015/){:target="_blank"}
 : "I’ve had the pleasure of watching Nick Payne workshopping his convict folk song at jam sessions and festivals over the past 18 months and what he’s managed to capture on tape is pretty bang on what you’ll get live. I love the old time feel of this track and the fine group of musicians he’s managed to amass to accompany him (including many members of his band Dear Orphans) elevate the song to another level. I love the 'behind the music' style of the video as well -- very nice."
 
 13/04/2015 -- [Spreading The Seed: #Q&amp;A with Songwriter Nick Payne](http://www.spreadingtheseed.com/post/116282706894/q-a-with-songwriter-nick-payne){:target="_blank"}
