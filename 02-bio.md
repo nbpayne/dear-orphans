@@ -27,4 +27,4 @@ The pivotal moment in the band's destiny came when they organised a series of mo
 
 Dear Orphans’ released their debut, self-titled album in 2009 and followed that up with their EP "Midnight At Annandale" in 2011. They followed that up with the release of their first official music video for the track "Castlereagh" featuring footage from Dorrigo Folk and Bluegrass Festival 2011.
 
-Nick is currently working on a solo album for release in late 2015. The first single *Old Sydney Town* is on radio now.
+Nick has been working on his own solo album which is available for pre-order now at [https://pozible.com/project/pre-order-nick-paynes-new-album](https://pozible.com/project/pre-order-nick-paynes-new-album){: target="_blank" }
