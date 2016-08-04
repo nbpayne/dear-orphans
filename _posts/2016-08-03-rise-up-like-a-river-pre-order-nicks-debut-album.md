@@ -3,7 +3,7 @@ layout: post
 title: "Rise Up Like A River: Pre-order Nick's debut album"
 author: Nick Payne
 published: true
-image: 'https://www.instagram.com/p/BIblekABhIm/media/?size=m'
+image: 'https://www.instagram.com/p/BIq4Owkhvh9/media/?size=m'
 ---
 
 ## I've finished my album! It officially is available September 1, but you can get your hands on it early.
