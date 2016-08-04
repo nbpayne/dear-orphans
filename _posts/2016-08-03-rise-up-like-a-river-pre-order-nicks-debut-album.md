@@ -21,7 +21,7 @@ Side A is named "Salvation Jane" and all it's songs are set in the present. Side
 
 ### Pre-order now
 
-To pre-order the album visit my page on the Pozible website --- [pozible.com/project/pre-order-nick-paynes-new-album](https://pozible.com/project/pre-order-nick-paynes-new-album){: target="_blank" onclick="trackOutboundLink('https://pozible.com/project/pre-order-nick-paynes-new-album')" } --- where you can choose to pre-order just the album, or the album plus other stuff. Pre-orders are open until midnight on Monday August 22. The album will be dispatched the next do so you'll have it that week.
+To pre-order the album visit my page on the Pozible website --- [pozible.com/project/pre-order-nick-paynes-new-album](https://pozible.com/project/pre-order-nick-paynes-new-album){: target="_blank" onclick="trackOutboundLink('https://pozible.com/project/pre-order-nick-paynes-new-album')" } --- where you can choose to pre-order just the album, or the album plus other stuff. Pre-orders are open until midnight on Monday August 22. The album will be dispatched the next day so you'll have it that week.
 
 Pozible is a crowdfunding platform that is "all or nothing". That means, that I need enough pre-orders to reach a target of $2,500. If I don't receive enough pre-orders then I don't receive any money.
 
