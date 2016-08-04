@@ -31,11 +31,11 @@ It is this mixture of modern sensibility with a traditional musical and storytel
 
 Download *Rising River* for free now -- click the button.
 
-<p class="text-center"><a class="button" title="Download Rising River" href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Rising River</a></p>
+<p class="text-center"><a class="button radius" title="Download Rising River" href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Rising River</a></p>
 
 Download my previous song *Old Sydney Town* for free now -- click the button.
 
-<p style="text-align: center;"><a class="button" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Old Sydney Town</a></p>
+<p style="text-align: center;"><a class="button radius" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Old Sydney Town</a></p>
 
 ### Credits
 
@@ -47,7 +47,7 @@ Download my previous song *Old Sydney Town* for free now -- click the button.
 #### Musicians
 
 **Nick Payne:** Vocals and acoustic guitar  
-**Carlyn:** Chen Fiddle  
+**Carlyn Chen:** Fiddle  
 **Jolyon Gray:** Backing vocals, mandolin  
 **Lyn Taylor:** Backing vocals  
 **Michael Roberts (AKA Mickey Blue Eyes):** Poorly tuned upright piano  
