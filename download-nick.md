@@ -26,7 +26,7 @@ display_in_nav: false
 
 Click the button below to download the album as a ZIP file of MP3s. If you need any help then please email me at <a target="_blank" href="mailto:nick@dearorphans.com">nick@dearorphans.com</a>.
 
-<p style="text-align: center;"><a class="button radius" title="Pre-order Nick's album" href="/files/Nick Payne – Rise Up Like A River.zip" onclick="trackOutboundLink('/files/Nick Payne – Rise Up Like A River.zip')">Download "Rise Up Like A River" (172MB)</a></p>
+<p style="text-align: center;"><a class="button radius" title="Pre-order Nick's album" href="/files/Nick Payne – Rise Up Like A River.zip" onclick="trackOutboundLink('/files/Nick Payne – Rise Up Like A River.zip')">Download "Rise Up Like A River" (82MB)</a></p>
 
 Remember you can help me out by sharing the link to pre-orders at --- [https://pozible.com/project/pre-order-nick-paynes-new-album](https://pozible.com/project/pre-order-nick-paynes-new-album){: target="_blank" } --- or click the "Share" button to share it on Facebook.
 
