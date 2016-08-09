@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 published: true
+display_in_nav: true
 ---
 
 

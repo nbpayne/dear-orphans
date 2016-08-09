@@ -5,6 +5,7 @@ permalink: /bio/
 redirect_from:
   - /page/Bio.aspx/
   - /page/bio.aspx/
+display_in_nav: true
 ---
 
 # Biography

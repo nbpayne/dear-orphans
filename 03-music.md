@@ -5,6 +5,7 @@ permalink: /music/
 redirect_from:
   - /page/Music.aspx/
   - /page/music.aspx/
+display_in_nav: true
 ---
 # Music
 

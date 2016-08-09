@@ -13,7 +13,7 @@
             <li><a href="{{ site.baseurl }}/news/">News</a></li>
           {% for page in site.pages %}
             {% if page.title %}
-              {% if page.title != 'News' and page.title != '404 Page not found' and page.title != 'Privacy Policy' %}
+              {% if page.display_in_nav %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
               {% endif %}
             {% endif %}

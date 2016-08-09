@@ -3,6 +3,7 @@ layout: page
 title: Media
 permalink: /media/
 published: true
+display_in_nav: true
 ---
 
 # Media
