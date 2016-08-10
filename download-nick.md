@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Download "Rise Up Like A River"
+title: "Download 'Rise Up Like A River'"
 permalink: /download-nick/
 published: true
 display_in_nav: false
+image: 'https://www.instagram.com/p/BIq4Owkhvh9/media/?size=m'
 ---
 
 <div id="fb-root"></div>
