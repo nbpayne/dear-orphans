@@ -14,9 +14,9 @@ display_in_nav: true
 Some of our music is free to download. Click the following buttons to download MP3s.
 
 <p class="text-center">
-  <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Rising River</em></a><br>
-  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Old Sydney Town</em></a><br>
-  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Rain</em></a>
+  <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rising-river')">Download <em>Rising River</em></a><br>
+  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/old-sydney-town')">Download <em>Old Sydney Town</em></a><br>
+  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rain')">Download <em>Rain</em></a>
 </p>
 
 ### Rising River -- Single (2016)

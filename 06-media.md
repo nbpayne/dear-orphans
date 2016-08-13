@@ -18,8 +18,8 @@ Nick is currently recording a solo album for release late 2015.
 
 ## Bio
 
-- [Dear Orphans (1.1MB PDF)](/files/Dear-Orphans-BIO.pdf){:target="_blank"}
-- [Nick Payne (99KB PDF)](/files/Nick-Payne-BIO.pdf){:target="_blank"}
+- [Dear Orphans (1.1MB PDF)](/files/Dear-Orphans-BIO.pdf){:target="_blank" onclick="trackEvent('download', 'click', '/media/dear-orphans-bio')" }
+- [Nick Payne (99KB PDF)](/files/Nick-Payne-BIO.pdf){:target="_blank" onclick="trackEvent('download', 'click', '/media/nick-payne-bio')" }
 
 ## Press
 
@@ -43,12 +43,12 @@ High-resolution, print-ready photos. Right-click and select "Save as..." to down
 
 <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
-    <a href="/images/media/Lyn-Taylor-PRINT-01.jpg" target="_blank">
+    <a href="/images/media/Lyn-Taylor-PRINT-01.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Lyn-Taylor-PRINT-01')">
       <img alt="Lyn Taylor" title="Lyn Taylor" src="/images/media/th/Lyn-Taylor-PRINT-01.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Nick-Payne-PRINT-01.jpg" target="_blank">
+    <a href="/images/media/Nick-Payne-PRINT-01.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Nick-Payne-PRINT-01')">
       <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-01.jpg" />
     </a>
   </li>
@@ -58,22 +58,22 @@ High-resolution, print-ready photos. Right-click and select "Save as..." to down
 
 <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-2 ths">
   <li>
-    <a href="/images/media/Dear-Orphans-PRINT-01.jpg" target="_blank">
+    <a href="/images/media/Dear-Orphans-PRINT-01.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Dear-Orphans-PRINT-01')">
       <img alt="Dear Orphans" title="Dear Orphans" src="/images/media/th/Dear-Orphans-PRINT-01.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank">
+    <a href="/images/media/Nick-Payne-PRINT-02.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Nick-Payne-PRINT-02')">
       <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-02.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Nick-Payne-PRINT-03.jpg" target="_blank">
+    <a href="/images/media/Nick-Payne-PRINT-03.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Nick-Payne-PRINT-03')">
       <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-03.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Nick-Payne-PRINT-04.jpg" target="_blank">
+    <a href="/images/media/Nick-Payne-PRINT-04.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Nick-Payne-PRINT-04')">
       <img alt="Nick Payne" title="Nick Payne" src="/images/media/th/Nick-Payne-PRINT-04.jpg" />
     </a>
   </li>
@@ -85,22 +85,22 @@ High-resolution, album artwork. Right-click and select "Save as..." to download.
 
 <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 ths">
   <li>
-    <a href="/images/media/Rising-River-2016.jpg" target="_blank">
+    <a href="/images/media/Rising-River-2016.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Rising-River-2016')">
       <img alt="Rising River &ndash; Single (2016)" title="Rising River &ndash; Single (2016)" src="/images/media/th/Rising-River-2016.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Old-Sydney-Town-2015.jpg" target="_blank">
+    <a href="/images/media/Old-Sydney-Town-2015.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Old-Sydney-Town-2015')">
       <img alt="Old Sydney Town &ndash; Single (2015)" title="Old Sydney Town &ndash; Single (2015)" src="/images/media/th/Old-Sydney-Town-2015.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Midnight-at-Annandale-2011.jpg" target="_blank">
+    <a href="/images/media/Midnight-at-Annandale-2011.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Midnight-at-Annandale-2011')">
       <img alt="Midnight at Annandale (2011)" title="Midnight at Annandale (2011)" src="/images/media/th/Midnight-at-Annandale-2011.jpg" />
     </a>
   </li>
   <li>
-    <a href="/images/media/Dear-Orphans-2009.jpg" target="_blank">
+    <a href="/images/media/Dear-Orphans-2009.jpg" target="_blank" onclick="trackEvent('download', 'click', '/images/Dear-Orphans-2009')">
       <img alt="Dear Orphans (2009)" title="Dear Orphans (2009)" src="/images/media/th/Dear-Orphans-2009.jpg" />
     </a>
   </li>
@@ -111,19 +111,19 @@ High-resolution, album artwork. Right-click and select "Save as..." to download.
 The second single from Nick's upcoming solo album --- *Rising River* --- is currently being played on radio.
 
 <p class="text-center">
-      <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Rising River</em></a>
+      <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rising-river')">Download <em>Rising River</em></a>
 </p>
 
 The first single from Nick's upcoming solo album -- *Old Sydney Town*.
 
 <p class="text-center">
-  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Old Sydney Town</em></a><br>
+  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/old-sydney-town')">Download <em>Old Sydney Town</em></a><br>
 </p>
 
 *Rain* is the first song ever recorded by Dear Orphans and features Lyn Taylor on lead vocals.
 
 <p class="text-center">
-  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius">Download <em>Rain</em></a>
+  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rain')">Download <em>Rain</em></a>
 </p>
 
 ## Pressers

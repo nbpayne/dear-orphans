@@ -35,7 +35,7 @@ These two songs will be recorded next:
 
 Once all six side B songs are done I'll release them as a free download. In the meantime the first song <em>Old Sydney Town</em> is available for free download now. Click the link below and an MP3 will start downloading.
 
-<p style="text-align: center;"><a class="button" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Old Sydney Town</a></p>
+<p style="text-align: center;"><a class="button" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" onclick="trackEvent('download', 'click', '/soundcloud/old-sydney-town')">Download Old Sydney Town</a></p>
 <p>After that, it'll be on to side A. More on that later...</p>
 <h3 id="keeping-things-moving">Keeping things moving</h3>
 <p>Keeping things moving has been much harder than I thought it would be. Whilst coordinating lots of people is tricky, a large part of keeping things going is about me maintaining focus and keeping my enthusiasm and energy high. In order to do this I've chosen to follow two simple rules.</p>
