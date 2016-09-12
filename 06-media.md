@@ -19,7 +19,7 @@ Nick is currently recording a solo album for release late 2015.
 ## Bio
 
 - [Dear Orphans (1.1MB PDF)](/files/Dear-Orphans-BIO.pdf){:target="_blank" onclick="trackEvent('download', 'click', '/media/dear-orphans-bio')" }
-- [Nick Payne (99KB PDF)](/files/Nick-Payne-BIO.pdf){:target="_blank" onclick="trackEvent('download', 'click', '/media/nick-payne-bio')" }
+- [Nick Payne (49KB PDF)](/files/Nick-Payne-BIO.pdf){:target="_blank" onclick="trackEvent('download', 'click', '/media/nick-payne-bio')" }
 
 ## Press
 
