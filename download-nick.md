@@ -29,6 +29,6 @@ Click the button below to download the album as a ZIP file of MP3s. If you need 
 
 <p style="text-align: center;"><a class="button radius" title="Pre-order Nick's album" href="/files/Nick Payne – Rise Up Like A River.zip" onclick="trackEvent('download', 'click', '/files/Nick Payne – Rise Up Like A River.zip')">Download "Rise Up Like A River" (82MB)</a></p>
 
-Remember you can help me out by sharing the link to pre-orders at --- [https://pozible.com/project/pre-order-nick-paynes-new-album](https://pozible.com/project/pre-order-nick-paynes-new-album){: target="_blank" } --- or click the "Share" button to share it on Facebook.
+Remember you can help me out by sharing the link to purchase the album at --- [http://www.nickpayne.com](http://www.nickpayne.com){: target="_blank" } --- or click the "Share" button to share it on Facebook.
 
-<div style="width: 100%; text-align: center;" class="fb-share-button" data-href="https://pozible.com/project/pre-order-nick-paynes-new-album" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpozible.com%2Fproject%2Fpre-order-nick-paynes-new-album&amp;src=sdkpreparse">Share</a></div>
+<div style="width: 100%; text-align: center;" class="fb-share-button" data-href="http://www.nickpayne.com" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.nickpayne.com%2F&amp;src=sdkpreparse">Share</a></div>
