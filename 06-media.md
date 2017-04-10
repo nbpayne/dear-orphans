@@ -128,6 +128,7 @@ The first single from Nick's upcoming solo album -- *Old Sydney Town*.
 
 ## Pressers
 
+- 12/09/2016 -- [New Music: Nick Payne "White Line Fever"](http://kriskatpublicity.com.au/new-music-white-line-fever-nick-payne/){:target="_blank"}
 - 17/05/2016 -- [New Music: Nick Payne "Rising River"](http://kriskatpublicity.com.au/nick-payne-2/){:target="_blank"}
 - 5/05/2015 -- [Nick Payne solo project update](http://kriskatpublicity.com.au/nick-payne-solo-project-update/){:target="_blank"}
 - 9/04/2015 -- [New Music: Nick Payne "Old Sydney Town"](http://kriskatpublicity.com.au/new-music-nick-payne-old-sydney-town/){:target="_blank"}
