@@ -111,19 +111,19 @@ High-resolution, album artwork. Right-click and select "Save as..." to download.
 The second single from Nick's upcoming solo album --- *Rising River* --- is currently being played on radio.
 
 <p class="text-center">
-      <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rising-river')">Download <em>Rising River</em></a>
+  {% include downloads/rising-river.html %}
 </p>
 
 The first single from Nick's upcoming solo album -- *Old Sydney Town*.
 
 <p class="text-center">
-  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/old-sydney-town')">Download <em>Old Sydney Town</em></a><br>
+  {% include downloads/old-sydney-town.html %}
 </p>
 
 *Rain* is the first song ever recorded by Dear Orphans and features Lyn Taylor on lead vocals.
 
 <p class="text-center">
-  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rain')">Download <em>Rain</em></a>
+  {% include downloads/rain.html %}
 </p>
 
 ## Pressers

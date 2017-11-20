@@ -23,7 +23,7 @@ author: "Nick Payne"
 <h4>Can we have a sneak preview of any of the songs?</h4>
 <p>You sure can. Here's something that we've been working on. It's a bit different... it's an instrumental.</p>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/23899015&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+{% include listen/sean-connery-is-bond.html %}
 
 <h4>This sounds awesome, when can we next see you live?</h4>
 <p>We'll be playing at Dorrigo Folk and Bluegrass Festival on the weekend of October 21-23. You 

@@ -13,28 +13,20 @@ display_in_nav: true
 
 Some of our music is free to download. Click the following buttons to download MP3s.
 
-<p class="text-center">
-  <a href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rising-river')">Download <em>Rising River</em></a><br>
-  <a href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/old-sydney-town')">Download <em>Old Sydney Town</em></a><br>
-  <a href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" class="button radius" onclick="trackEvent('download', 'click', '/soundcloud/rain')">Download <em>Rain</em></a>
-</p>
+{% include downloads.html %}
 
-### Rising River -- Single (2016)
+### Rise Up Like A River -- Nick Payne (2016)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252131267&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-### Old Sydney Town -- Single (2015)
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/175605572&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe src="https://open.spotify.com/embed/album/2LP2BnkXdQUtQMkBYXjgjK" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ### Midnight At Annandale (2011)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1347731&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+{% include listen/midnight-at-annandale.html %}
 
 ### Dear Orphans (2009)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/654619&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe src="https://open.spotify.com/embed/album/459GThm4XcfvLyxrYPsDV9" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ### Rain -- Single (2008)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169556761&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2slTBQlZaen2EjZd1hnI0L" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>

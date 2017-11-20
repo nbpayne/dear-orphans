@@ -36,5 +36,5 @@ image: https://igcdn-photos-b-a.akamaihd.net/hphotos-ak-xfa1/t51.2885-15/1047192
 
 <p  style="font-size: 1.5em; margin-left: 2em; margin-right: 2em;">Given you can't get this track elsewhere, I'm pleased to be giving it away as a free download. Just click the download button and enjoy!</p>
 
-<p style="text-align: center;"><a class="button" href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download <em>Rain</em> for free</a></p>
+<p style="text-align: center;">{% include downloads/rain.html %}</p>
 <p>Nick</p>

@@ -28,6 +28,6 @@ image: https://i.ytimg.com/vi/RB1JDQ9cdGg/maxresdefault.jpg
 <p style="text-align: center; font-size: 1.25em;">Tickets can be purchased here...<br /><a class="external" href="http://events.ticketbooth.com.au/event/gretta-ziller-and-dear-orphans" target="_blank">events.ticketbooth.com.au/event/gretta-ziller-and-dear-orphans</a></p>
 <h3>Download <em>Rain</em>&nbsp;for free</h3>
 <p>We're giving away <em>Rain</em>&nbsp;- the first song we ever recorded - as a gift. Click the button below to download it.</p>
-<p style="text-align: center;"><a class="button" href="https://api.soundcloud.com/tracks/169556761/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download <em>Rain</em> for free</a></p>
+<p style="text-align: center;">{% include downloads/rain.html %}</p>
 <p>Happy music listening!</p>
 <p>Nick</p>

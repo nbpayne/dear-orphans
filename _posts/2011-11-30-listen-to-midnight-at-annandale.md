@@ -19,7 +19,7 @@ author: "Nick Payne"
 
 <h3>Midnight at Annandale</h3>
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1347731&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+{% include listen/midnight-at-annandale.html %}
 
 <p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SJWT4PL7L6AUS">Buy a copy of this album now</a>. We'll email you a download code to digitally download the album and mail you a download card and one of our trendy badges.</p>
 <p class="text-center"><a class="button radius" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SJWT4PL7L6AUS">Buy now</a></p>

@@ -92,7 +92,7 @@ Side B progress:
 
 Thanks for your interest and please download and enjoy *Old Sydney Town*.
 
-<p style="text-align: center;"><a class="button" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26">Download Old Sydney Town</a></p>
+<p style="text-align: center;">{% include downloads/old-sydney-town.html %}</p>
 
 And you can watch the video here:
 

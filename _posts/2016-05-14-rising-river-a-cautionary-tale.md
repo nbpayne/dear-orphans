@@ -25,17 +25,17 @@ It is this mixture of modern sensibility with a traditional musical and storytel
 
 ### Listen to "Rising River"
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/252131267&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe src="https://open.spotify.com/embed/album/7J4HYn0HG4BPL6sZjhFXdb" width="100%" height="125" frameborder="0" allowtransparency="true"></iframe>
 
 ### Download "Rising River"
 
 Download *Rising River* for free now -- click the button.
 
-<p class="text-center"><a class="button radius" title="Download Rising River" href="https://api.soundcloud.com/tracks/252131267/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" onclick="trackEvent('download', 'click', '/soundcloud/rising-river')">Download Rising River</a></p>
+<p class="text-center">{% include downloads/rising-river.html %}</p>
 
 Download my previous song *Old Sydney Town* for free now -- click the button.
 
-<p style="text-align: center;"><a class="button radius" title="Download Old Sydney Town" href="https://api.soundcloud.com/tracks/175605572/download?client_id=2e67448a38d9ec5882f25bc34f16bd26" onclick="trackEvent('download', 'click', '/soundcloud/old-sydney-town')">Download Old Sydney Town</a></p>
+<p style="text-align: center;">{% include downloads/old-sydney-town.html %}</p>
 
 ### Credits
 
