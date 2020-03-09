@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-- Updated June, 2016
+- Updated March, 2020
 
 This following document sets forth the Privacy Policy for the *Dear Orphans* website, *http://www.dearorphans.com*.
 
@@ -19,6 +19,8 @@ There are many aspects of the site which can be viewed without providing persona
 ## Sharing of your personal information
 
 We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support enquiries, processing transactions or customer freight shipping. Those companies will be permitted to obtain only the personal information they need to deliver the service. *Dear Orphans* takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+
+We use YouTube API Services to provide videos from YouTube for streaming on this site. Use of these services is subject to the [YouTube Terms of Service](https://www.youtube.com/t/terms) and the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## Use of your personal information
 
